@@ -1,7 +1,14 @@
 #include "functions.h"
 
-double A_tri(double op0, double op1)
+// This function is designed to compute the area of the triangle
+// It expects two inputs:
+double A_tri(double base, double height)
 {
-  double area = 0;
-  return area;
+  double area;
+
+  //***************************************************************
+  // Your code to solve the area of the triangle goes here [below]
+  //***************************************************************
+
+  return area;    // Returns the area of the triangle
 }
