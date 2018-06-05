@@ -3,4 +3,4 @@
 
 using namespace std;
 
-double A_tri(double op0, double op1);
+double A_tri(double base, double height);
